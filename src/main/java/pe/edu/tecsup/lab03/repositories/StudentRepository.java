@@ -1,4 +1,5 @@
 package pe.edu.tecsup.lab03.repositories;
 
-public class StudentRepository {
+public interface StudentRepository {
+    // Modificacion sprint-2 colaborador - Repository
 }
