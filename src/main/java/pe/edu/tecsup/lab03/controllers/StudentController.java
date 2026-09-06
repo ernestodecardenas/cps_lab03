@@ -1,5 +1,5 @@
 package pe.edu.tecsup.lab03.controllers;
 
 public class StudentController {
-    // Responsable update
+    // Modificacion sprint-2 colaborador - Controller service
 }
